@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For this app I had trouble when I began to implement the landscape version however this was due to the dimensions I constrained the recycle view itself and resolved once I did not set a specific length and width and instead used the match-parent size constraints.   
 
 ## Open-source libraries used
 
